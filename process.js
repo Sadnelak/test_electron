@@ -38,6 +38,7 @@
 		    properties: ['openDirectory']
 		});
 		setMainFolder();
+		
 	}
 
 	var formatImageToHtml =function (imageName){
